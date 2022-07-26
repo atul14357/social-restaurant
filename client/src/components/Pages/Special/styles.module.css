@@ -1,0 +1,16 @@
+.special_card_container{
+	display: flex;
+	align-items: center;
+    justify-content: space-around;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+
+.special_header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: coral;
+    font-style: italic;
+}

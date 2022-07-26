@@ -1,0 +1,11 @@
+.container_card{
+	display: flex;
+	align-items: center;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+
+.main_container{
+	background-color: aquamarine;
+}
+
